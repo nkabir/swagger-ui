@@ -2,6 +2,6 @@
 .hero-unit {
     background-image: url(../images/ks_fullcolor.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: right 10%;
+    background-position: 90% 50%;
+    margin-bottom: 0px;
 }
